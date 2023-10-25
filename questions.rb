@@ -20,3 +20,5 @@ end
 def answer
 @answer =  @num1 + @num2
 end
+
+end
